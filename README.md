@@ -26,6 +26,15 @@
 
 ---
 
+## 🛠 Proyectos en Desarrollo  
+
+🍔 **Sistema de Gestión POST para Restaurantes** *(Repositorio Privado)*  
+- Aplicación para la gestión de pedidos, inventario y facturación en restaurantes de comida rápida.  
+- **Tecnologías:** React, Next.js, Nest.js, PostgreSQL, TypeScript.  
+- **Funcionalidades:** Gestión de menús, pedidos en tiempo real, control de inventario y reportes.  
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Camiloc7&show_icons=true&theme=radical)
@@ -40,3 +49,4 @@
 🔗 [GitHub](https://github.com/Camiloc7)  
 
 🚀 _Siempre aprendiendo y construyendo nuevas soluciones._
+
