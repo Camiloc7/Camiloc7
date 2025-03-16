@@ -43,10 +43,11 @@
 
 ---
 
-💬 **¡Conéctate conmigo!**  
+## 💬 ¡Conéctate conmigo!  
 📩 j.camilocorredor@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jcamilocorredor)  
 🔗 [GitHub](https://github.com/Camiloc7)  
 
 🚀 _Siempre aprendiendo y construyendo nuevas soluciones._
+
 
