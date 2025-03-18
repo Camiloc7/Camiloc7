@@ -6,6 +6,13 @@
 
 ---
 
+## 💬 ¡Conéctate conmigo!  
+📩 j.camilocorredor@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jcamilocorredor)  
+🔗 [GitHub](https://github.com/Camiloc7)  
+
+---
+
 ## 🔧 Tecnologías y Herramientas
 
 ### **Frontend**
@@ -55,10 +62,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloc7&layout=compact&theme=radical)
 
 ---
-
-## 💬 ¡Conéctate conmigo!  
-📩 j.camilocorredor@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jcamilocorredor)  
-🔗 [GitHub](https://github.com/Camiloc7)  
 
 🚀 _Siempre aprendiendo y construyendo nuevas soluciones._
